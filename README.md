@@ -14,7 +14,6 @@
 
 - `insert_books.js`: Inserts 12 books into the `plp_bookstore.books` collection
 - `queries.js`: CRUD, advanced queries, aggregation, and indexing
-- `screenshot.png`: (Include this manually showing your Compass view)
 
 ## Notes
 
